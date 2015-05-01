@@ -1,0 +1,19 @@
+# IDE files
+.classpath
+.project
+*.iml
+.idea/
+.gradle/
+
+# Generated files
+bin/
+gen/
+build/
+*.apk
+
+# Internal files
+res/values/keys.xml
+
+# Local files
+local.properties
+local.properties
